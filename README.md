@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![screen](screen.png)
 
-## Availabl
+## Available
 In the project directory, you can run:
 
 ### `npm start`
